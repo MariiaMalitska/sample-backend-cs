@@ -1,0 +1,15 @@
+E:\Новая папка\SampleBackendCs\SampleBackendCs\bin\Debug\netcoreapp2.1\SampleBackendCs.deps.json
+E:\Новая папка\SampleBackendCs\SampleBackendCs\bin\Debug\netcoreapp2.1\SampleBackendCs.runtimeconfig.json
+E:\Новая папка\SampleBackendCs\SampleBackendCs\bin\Debug\netcoreapp2.1\SampleBackendCs.runtimeconfig.dev.json
+E:\Новая папка\SampleBackendCs\SampleBackendCs\bin\Debug\netcoreapp2.1\SampleBackendCs.dll
+E:\Новая папка\SampleBackendCs\SampleBackendCs\obj\Debug\netcoreapp2.1\SampleBackendCs.csproj.CoreCompileInputs.cache
+E:\Новая папка\SampleBackendCs\SampleBackendCs\obj\Debug\netcoreapp2.1\SampleBackendCs.RazorAssemblyInfo.cache
+E:\Новая папка\SampleBackendCs\SampleBackendCs\obj\Debug\netcoreapp2.1\SampleBackendCs.RazorAssemblyInfo.cs
+E:\Новая папка\SampleBackendCs\SampleBackendCs\obj\Debug\netcoreapp2.1\SampleBackendCs.AssemblyInfoInputs.cache
+E:\Новая папка\SampleBackendCs\SampleBackendCs\obj\Debug\netcoreapp2.1\SampleBackendCs.AssemblyInfo.cs
+E:\Новая папка\SampleBackendCs\SampleBackendCs\obj\Debug\netcoreapp2.1\SampleBackendCs.RazorTargetAssemblyInfo.cache
+E:\Новая папка\SampleBackendCs\SampleBackendCs\bin\Debug\netcoreapp2.1\SecureStorage.Win.dll
+E:\Новая папка\SampleBackendCs\SampleBackendCs\obj\Debug\netcoreapp2.1\SampleBackendCs.csproj.CopyComplete
+E:\Новая папка\SampleBackendCs\SampleBackendCs\bin\Debug\netcoreapp2.1\SampleBackendCs.pdb
+E:\Новая папка\SampleBackendCs\SampleBackendCs\obj\Debug\netcoreapp2.1\SampleBackendCs.dll
+E:\Новая папка\SampleBackendCs\SampleBackendCs\obj\Debug\netcoreapp2.1\SampleBackendCs.pdb
