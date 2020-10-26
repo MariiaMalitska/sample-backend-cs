@@ -15,7 +15,7 @@ namespace SampleBackendCs.Services
         static AuthenticationService()
         {
             NewtonsoftJsonSerializer njs = new NewtonsoftJsonSerializer();
-            var config = njs.Deserialize<Config>(File.ReadAllText(@"config.json"));
+            var config = njs.Deserialize<Config>(File.ReadAllText(@"appsettings.json"));
 
             var apiKeyBase64 = config.API_KEY;
             var privateKeyData = Bytes.FromString(apiKeyBase64, StringEncoding.BASE64);

@@ -2,12 +2,11 @@
 {
     public class AuthResponse
     {
-        private string _authToken;
-        public string AuthToken { get => _authToken; set => _authToken = value; }
+        public string AuthToken { get; set; }
 
         public AuthResponse(string authToken)
         {
-            this._authToken = authToken;
+            AuthToken = authToken;
         }
     }
 }
